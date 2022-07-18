@@ -1,0 +1,84 @@
+body{
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+
+    font-family: 'Open Sans', sans-serif;
+
+    font-family: 'Rubik', sans-serif;
+}
+
+.container-1{
+     background-color: #EEEEEE; 
+     display: flex;
+     padding: 10px;
+}
+.logo-box{
+    float: left;
+    margin: 200px 100px;
+}
+
+
+.logo{
+    margin: 0;
+    color: #1363DF;
+    font-size: 50px;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 900;
+    /* font-family: 'Open Sans', sans-serif; */
+}
+.logo-tag-line{
+    font-family: 'Rubik', sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+}
+/* log-in-page-css */
+
+.my-big-btn {
+    /* width:400px; */
+    width: 380px;
+}
+.my-small-btn{
+    width: 200px;
+    margin: 20px 100px;
+}
+.log-in-page{
+    background-color: white;
+    /* margin-top: 50px; */
+    width: 400px;
+    margin: 50px;
+    float: right;
+    /* text-align: center; */
+    
+}
+.mb-3{
+    width: 400px;
+    padding: 10px;
+    /* margin: 20px; */
+}
+/* .btn{
+    width: 400px;   
+} */
+.forgotten-psw{
+    text-align: center;
+}
+.psw-link{
+    text-decoration: none;
+}
+
+/* link-create-page-css */
+
+.create-page-box{
+    /* margin-left: 50px; */
+    text-align: center;
+    
+}
+.link-create-page{
+    text-decoration: none;
+    color: black;
+    /* margin: 0; */
+}
+.link-create-page:hover{
+    text-decoration: underline;
+    color: black;
+}
+
