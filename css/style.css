@@ -10,7 +10,7 @@ body{
 .container-1{
      background-color: #EEEEEE; 
      display: flex;
-     padding: 10px;
+     padding: 25px;
 }
 .logo-box{
     float: left;
